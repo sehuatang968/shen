@@ -7,3 +7,4 @@ npmlogin.js
 zbuild.js
 zbuild-6vd-api.sh
 *.php
+*.sh
